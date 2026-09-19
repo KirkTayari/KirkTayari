@@ -1,34 +1,42 @@
-Yes — **one complete copy-paste block**, no pieces, no placeholders for your username, and much more substantial. I’ve built this around the technologies, projects, businesses, experience, and interests you’ve actually told me about.
-
-````markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,30:0f172a,60:075985,100:06b6d4&text=KIRK%20TAYARI&fontSize=64&fontColor=ffffff&fontAlignY=34&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20PRODUCT%20BUILDER%20%E2%80%A2%20TECH%20ENTHUSIAST&descAlignY=56&descSize=17&animation=fadeIn" width="100%"/>
+<!-- HERO -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=KIRK%20TAYARI&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20PRODUCT%20BUILDER%20%7C%20TECH%20ENTHUSIAST&descAlignY=58&descSize=16&animation=fadeIn&color=0:020617,50:075985,100:06b6d4" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=950&lines=Full-Stack+Developer;Web+%26+Mobile+Application+Builder;Digital+Product+Creator;AI+%26+Automation+Explorer;Marketplace+%26+SaaS+Builder;WordPress+%26+E-Commerce+Developer;SEO+%26+Digital+Growth+Specialist;Turning+Ideas+Into+Real+Products" alt="Typing SVG"/>
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=900&height=50&lines=Full-Stack+Developer;Web+%26+Mobile+Application+Builder;Digital+Product+Creator;AI+%26+Automation+Explorer;Marketplace+%26+SaaS+Builder;WordPress+%26+E-Commerce+Developer;SEO+%26+Digital+Growth+Specialist;Turning+Ideas+Into+Real+Products" alt="Kirk Tayari - Typing Animation"/>
 
 <br><br>
+
+<!-- SOCIAL LINKS -->
 
 <a href="https://github.com/KirkTayari">
-<img src="https://img.shields.io/badge/GitHub-KirkTayari-020617?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-KirkTayari-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
 <a href="https://kirk-portfolio-teal.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
+
 <a href="https://www.linkedin.com/in/kirk-tayari-1556392a5/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
 <a href="https://x.com/KirkTayari">
-<img src="https://img.shields.io/badge/X-@KirkTayari-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-@KirkTayari-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=KirkTayari&label=PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/KirkTayari?label=FOLLOWERS&style=for-the-badge&logo=github&color=020617"/>
-<img src="https://img.shields.io/github/stars/KirkTayari?affiliations=OWNER&label=STARS&style=for-the-badge&logo=github&color=020617"/>
+<!-- PROFILE STATS -->
+
+<img src="https://komarev.com/ghpvc/?username=KirkTayari&label=PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge" alt="Profile Views"/>
+
+<img src="https://img.shields.io/github/followers/KirkTayari?label=FOLLOWERS&style=for-the-badge&logo=github&color=0f172a" alt="GitHub Followers"/>
+
+<img src="https://img.shields.io/github/stars/KirkTayari?affiliations=OWNER&label=STARS&style=for-the-badge&logo=github&color=0f172a" alt="GitHub Stars"/>
 
 </div>
 
@@ -52,35 +60,36 @@ I'm **Kirk Phinehas Tayari**, a Full-Stack Developer and digital product builder
 
 I build modern **web applications, mobile applications, marketplaces, SaaS products, business websites, e-commerce experiences, and digital platforms**.
 
+I enjoy taking an idea from **concept → design → development → deployment → real users**.
+
 My interests sit at the intersection of:
 
 ```text
-                 SOFTWARE ENGINEERING
-                         │
-                         ▼
-                ┌─────────────────┐
-                │  PRODUCT DESIGN │
-                └────────┬────────┘
-                         │
-                         ▼
-              ┌──────────────────────┐
-              │   FULL-STACK DEV     │
-              └──────────┬───────────┘
-                         │
-             ┌───────────┼───────────┐
-             ▼           ▼           ▼
-           WEB         MOBILE       AI
-             │           │           │
-             └───────────┼───────────┘
-                         ▼
-                  DIGITAL PRODUCTS
-                         │
-                         ▼
-                    REAL USERS
-                         │
-                         ▼
-                       IMPACT
-````
+                         SOFTWARE ENGINEERING
+                                  │
+                                  ▼
+                         ┌─────────────────┐
+                         │  PRODUCT DESIGN │
+                         └────────┬────────┘
+                                  │
+                                  ▼
+                       ┌──────────────────────┐
+                       │   FULL-STACK DEV     │
+                       └──────────┬───────────┘
+                                  │
+                    ┌─────────────┼─────────────┐
+                    ▼             ▼             ▼
+                  WEB           MOBILE          AI
+                    │             │             │
+                    └─────────────┼─────────────┘
+                                  ▼
+                         DIGITAL PRODUCTS
+                                  │
+                                  ▼
+                            REAL USERS
+                                  │
+                                  ▼
+                               IMPACT
 
 I enjoy the entire process of building software — from an initial idea and product concept to architecture, interface design, development, integrations, deployment and iteration.
 
